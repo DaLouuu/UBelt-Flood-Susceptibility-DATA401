@@ -1,5 +1,12 @@
 # Large data files
 Data/raw/all_buildings.geojson
+data/raw/all_buildings.geojson
 
 # OSMnx cache
 cache/
+
+# Jupyter & Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
